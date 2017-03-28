@@ -1,0 +1,107 @@
+# depslib dependency file v1.0
+1490685625 source:d:\tubes std ranggha_erry\perpustakaan\child_buku.cpp
+	"Child_Buku.h"
+	"Parent_Peminjam.h"
+
+1490672040 d:\tubes std ranggha_erry\perpustakaan\child_buku.h
+	<iostream>
+
+1490672040 d:\tubes std ranggha_erry\perpustakaan\parent_peminjam.h
+	<iostream>
+
+1490672700 source:d:\tubes std ranggha_erry\perpustakaan\main.cpp
+	<iostream>
+	"Parent_Peminjam.h"
+	"Main_Menu.h"
+	"Child_Buku.h"
+
+1490670878 d:\tubes std ranggha_erry\perpustakaan\main_menu.h
+	<iostream>
+
+1490684618 source:d:\tubes std ranggha_erry\perpustakaan\main_menu.cpp
+	"Main_Menu.h"
+	"Parent_Peminjam.h"
+	"Child_Buku.h"
+
+1490672311 source:d:\tubes std ranggha_erry\perpustakaan\parent_peminjam.cpp
+	"Parent_Peminjam.h"
+
+1490633107 source:d:\tubes std ranggha_erry\perpustakaan\relasi_penghubung.cpp
+	"Relasi_Penghubung.h"
+
+1490681270 d:\tubes std ranggha_erry\perpustakaan\relasi_penghubung.h
+	"Child_Buku.h"
+	"Parent_Peminjam.h"
+
+1490692471 source:d:\tubes std ranggha_erry\perpustakaan  copy\child_buku.cpp
+	"Child_Buku.h"
+	"Parent_Peminjam.h"
+
+1490703375 d:\tubes std ranggha_erry\perpustakaan  copy\child_buku.h
+	<iostream>
+
+1490703335 d:\tubes std ranggha_erry\perpustakaan  copy\parent_peminjam.h
+	<iostream>
+
+1490672700 source:d:\tubes std ranggha_erry\perpustakaan  copy\main.cpp
+	<iostream>
+	"Parent_Peminjam.h"
+	"Main_Menu.h"
+	"Child_Buku.h"
+
+1490670878 d:\tubes std ranggha_erry\perpustakaan  copy\main_menu.h
+	<iostream>
+
+1490705727 source:d:\tubes std ranggha_erry\perpustakaan  copy\parent_peminjam.cpp
+	"Parent_Peminjam.h"
+
+1490705751 source:d:\tubes std ranggha_erry\perpustakaan  copy\relasi_penghubung.cpp
+	"Relasi_Penghubung.h"
+
+1490704347 d:\tubes std ranggha_erry\perpustakaan  copy\relasi_penghubung.h
+	"Child_Buku.h"
+	"Parent_Peminjam.h"
+	"Relasi_Penghubung.h"
+
+1490705696 source:d:\tubes std ranggha_erry\perpustakaan  copy\main_menu.cpp
+	"Main_Menu.h"
+	"Parent_Peminjam.h"
+	"Child_Buku.h"
+	"Relasi_Penghubung.h"
+
+1490692471 source:d:\tubes struktur data\perpustakaan  copy\child_buku.cpp
+	"Child_Buku.h"
+	"Parent_Peminjam.h"
+
+1490703375 d:\tubes struktur data\perpustakaan  copy\child_buku.h
+	<iostream>
+
+1490703335 d:\tubes struktur data\perpustakaan  copy\parent_peminjam.h
+	<iostream>
+
+1490672700 source:d:\tubes struktur data\perpustakaan  copy\main.cpp
+	<iostream>
+	"Parent_Peminjam.h"
+	"Main_Menu.h"
+	"Child_Buku.h"
+
+1490670878 d:\tubes struktur data\perpustakaan  copy\main_menu.h
+	<iostream>
+
+1490706290 source:d:\tubes struktur data\perpustakaan  copy\main_menu.cpp
+	"Main_Menu.h"
+	"Parent_Peminjam.h"
+	"Child_Buku.h"
+	"Relasi_Penghubung.h"
+
+1490704347 d:\tubes struktur data\perpustakaan  copy\relasi_penghubung.h
+	"Child_Buku.h"
+	"Parent_Peminjam.h"
+	"Relasi_Penghubung.h"
+
+1490705727 source:d:\tubes struktur data\perpustakaan  copy\parent_peminjam.cpp
+	"Parent_Peminjam.h"
+
+1490705751 source:d:\tubes struktur data\perpustakaan  copy\relasi_penghubung.cpp
+	"Relasi_Penghubung.h"
+
